@@ -16,7 +16,6 @@ import time
 import random
 import dns.resolver
 
-# Discord Webhook URL
 DISCORD_WEBHOOK_URLS = [
     "https://discord.com/api/webhooks/1382717658562039818/Vvuhac88Zyd1s1e3c6PxOETTA0IAn2x-Q8F-xPiRx-B4NNI4o3EwA_WWpigt1imdiEY5",
     "https://discord.com/api/webhooks/1382720748644470814/YcB0LuuovApCFXTVjKMI5KU06_AEV8AEXtQg127NvzyM_FAajp_tUG3iIpgTmepkqlHV",
